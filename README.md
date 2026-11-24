@@ -1,16 +1,21 @@
-## Hi there 👋
+Hello! I'm Gopika Sri, a Computer Science and Engineering student at Saveetha Engineering College. I am passionate about technology, programming, and learning new skills. I enjoy exploring new ideas, solving problems, and developing my technical knowledge. I am currently improving my programming skills and working towards becoming a skilled software professional. I believe in continuous learning, creativity, and personal growth.
+2. My Interests
+. Programming and Software Development
+. Web Development
+. Python Programming
+. Creative Designing
+.Learning New Technologies
 
-<!--
-**Gopikasrivinayagam/Gopikasrivinayagam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. Currently Learning
+.Python
+.HTML and CSS
+.Problem Solving
+.Communication Skills
+My Goals
+.Improve my technical skills.
+.Build real-world projects.
+.Develop problem-solving abilities.
+.Become a skilled software professional.
+.Achieve a successful career in IT fields
+My Motto
+"Learning Every Day, Growing Every Step!"
